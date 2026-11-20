@@ -1,6 +1,6 @@
 // object destructuring
 
-const product = {
+let product = {
     id: 101,
     names: "iPhone 17",
     price: 999,
